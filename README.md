@@ -7,7 +7,11 @@ Ex: an email is sent to every new customer as soon as they signup.
 **Automation is Deterministic and Predefined.** they are not smart to think of themselves.
 
 **Steps for automation:**
+Input triggerd event --> Defined steps --> Output.
 
 #What are Agents?
 An AI Agent is the node that uses artificial intelligence to perform smart tasks, like analyzing text or making decisions.
 so it is something which is going to give smartness to our automation work.
+
+**Steps for Agents:**
+Input triggerd event --> AI Brain using memory, tool, AI Processing --> Output.
