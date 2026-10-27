@@ -9,7 +9,7 @@ Ex: an email is sent to every new customer as soon as they signup.
 **Steps for automation:**
 Input triggerd event --> Defined steps --> Output.
 
-#What are Agents?
+# What are Agents?
 An AI Agent is the node that uses artificial intelligence to perform smart tasks, like analyzing text or making decisions.
 so it is something which is going to give smartness to our automation work.
 
