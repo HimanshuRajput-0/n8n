@@ -1,4 +1,6 @@
 # n8n
+N8N is an open-source, no-code tool that lets us connect apps and serviced to automate workflows and integrate AI-driven tasks.
+
 
 # What are Automations?
 Automation is the process of using technology to perform tasks without human intervention, making repetitive or time-consuming activities faster and more efficient.
